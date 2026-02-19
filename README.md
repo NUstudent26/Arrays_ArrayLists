@@ -16,7 +16,7 @@ How to Run
 
 
 Compile:
-javac DifferenceDemo.java
+Difference-Arrays-ArrayLists.java
 
 Run:
-java DifferenceDemo
+Difference-Arrays-ArrayLists
