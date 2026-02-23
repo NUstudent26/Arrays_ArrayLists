@@ -9,6 +9,7 @@ public class DifferenceDemo {
     public static void main(String[] args) {
 
         //  ARRAY  
+        //fixed size, cannot add/remove elements
      
         int[] numbersArray = new int[3];
 
@@ -22,6 +23,7 @@ public class DifferenceDemo {
         }
 
         //  ARRAYLIST  
+        //  dynamic size, can add/remove elements
         
         ArrayList<Integer> numbersList = new ArrayList<>();
 
